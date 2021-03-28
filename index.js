@@ -1,3 +1,4 @@
+// function composition
 
 const c = function compose(x){
   afunct(x);
