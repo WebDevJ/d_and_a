@@ -37,4 +37,4 @@ const consumer = () => {
 
 }
 
-consumer();
+consumer(); // result
