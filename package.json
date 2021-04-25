@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/WebDevJ/d_and_a#readme",
   "dependencies": {
+    "eslint": "^7.24.0",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.1",
     "xmlhttprequest": "^1.8.0"
   }
 }
