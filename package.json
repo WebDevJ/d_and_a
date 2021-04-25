@@ -21,6 +21,7 @@
     "eslint": "^7.24.0",
     "fetch": "^1.1.0",
     "node-fetch": "^2.6.1",
+    "vowels": "^1.2.11",
     "xmlhttprequest": "^1.8.0"
   }
 }
