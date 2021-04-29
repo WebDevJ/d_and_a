@@ -25,7 +25,7 @@ async function getUserDataWithPromise() {
     console.log(err)
   }
 }
-logUserData()
+//logUserData()
 
 module.exports = {
    logUserData
